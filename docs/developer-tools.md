@@ -712,7 +712,6 @@
 * [Vision Camera](https://www.react-native-vision-camera.com/) - React Camera Support / [GitHub](https://github.com/mrousavy/react-native-vision-camera)
 * [React PDF](https://react-pdf.org/) - Create PDFs in React
 * [react-spring](https://www.react-spring.dev/) - React Spring Animations
-* [Create React App](https://create-react-app.dev) - Set Up React Web Apps / [GitHub](https://github.com/facebook/create-react-app)
 
 ***
 
